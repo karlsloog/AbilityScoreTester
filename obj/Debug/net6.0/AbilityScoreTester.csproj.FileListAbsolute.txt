@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\karlsloog\AbilityScoreTester\obj\Debug\net6.0\AbilityScoreTester.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\karlsloog\AbilityScoreTester\obj\Debug\net6.0\AbilityScoreTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\karlsloog\AbilityScoreTester\obj\Debug\net6.0\AbilityScoreTester.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\karlsloog\AbilityScoreTester\obj\Debug\net6.0\AbilityScoreTester.AssemblyInfo.cs
+C:\Users\user\source\repos\karlsloog\AbilityScoreTester\obj\Debug\net6.0\AbilityScoreTester.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\karlsloog\AbilityScoreTester\bin\Debug\net6.0\AbilityScoreTester.exe
+C:\Users\user\source\repos\karlsloog\AbilityScoreTester\bin\Debug\net6.0\AbilityScoreTester.deps.json
+C:\Users\user\source\repos\karlsloog\AbilityScoreTester\bin\Debug\net6.0\AbilityScoreTester.runtimeconfig.json
+C:\Users\user\source\repos\karlsloog\AbilityScoreTester\bin\Debug\net6.0\AbilityScoreTester.dll
+C:\Users\user\source\repos\karlsloog\AbilityScoreTester\bin\Debug\net6.0\AbilityScoreTester.pdb
+C:\Users\user\source\repos\karlsloog\AbilityScoreTester\obj\Debug\net6.0\AbilityScoreTester.dll
+C:\Users\user\source\repos\karlsloog\AbilityScoreTester\obj\Debug\net6.0\refint\AbilityScoreTester.dll
+C:\Users\user\source\repos\karlsloog\AbilityScoreTester\obj\Debug\net6.0\AbilityScoreTester.pdb
+C:\Users\user\source\repos\karlsloog\AbilityScoreTester\obj\Debug\net6.0\AbilityScoreTester.genruntimeconfig.cache
+C:\Users\user\source\repos\karlsloog\AbilityScoreTester\obj\Debug\net6.0\ref\AbilityScoreTester.dll
